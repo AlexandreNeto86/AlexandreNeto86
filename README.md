@@ -1,4 +1,4 @@
-Olá Eu sou o Alexandre Neto 👋
+Olá, eu sou o Alexandre Neto 👋
 
 ## Estou aprendendo
 
